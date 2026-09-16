@@ -1,3 +1,7 @@
+## Parcours français
+
+Consulter le parcours documentaire francophone consacré à gnark et aux circuits zk-SNARK dans [docs/fr](docs/fr/).
+
 # `gnark` zk-SNARK library
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/gnark_team.svg?style=social&label=Follow%20%40gnark_team)](https://twitter.com/gnark_team) [![License](https://img.shields.io/badge/license-Apache%202-blue)](LICENSE)
